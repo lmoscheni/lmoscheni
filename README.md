@@ -2,7 +2,7 @@
 
  👨🏻‍💻 I’m currently working on [Despegar](https://www.despegar.com) as full stack engineer.
 
- ![image](programmer.gif)
+ ![image](https://github.com/lmoscheni/lmoscheni/blob/master/programmer.gif)
  
 ### I primally work with this technologies:
 #### Frontend
