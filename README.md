@@ -9,7 +9,7 @@
 #### Backend
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
 
-
+### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lmoscheni&show_icons=true&theme=dracula&count_private=true)](https://github.com/lmoscheni/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmoscheni&layout=compact&hide=python&theme=dracula)](https://github.com/lmoscheni/github-readme-stats)
