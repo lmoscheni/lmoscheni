@@ -1,6 +1,6 @@
 ## Hi there, I'm Leandro! 👋
 
-🔭 I’m currently working on (Despegar)[https://www.despegar.com] as full stack engineer.
+ 👨🏻‍💻 I’m currently working on [Despegar](https://www.despegar.com) as full stack engineer.
 
 
 
