@@ -15,8 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmoscheni&layout=compact&hide=python&theme=dracula)](https://github.com/lmoscheni/github-readme-stats)
 
-### 🧐 You cand find me on:
-<a href="https://linkedin.com/in/leandromoscheni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandromoscheni" height="30" width="30" /></a>
+### 🧐 You cand find me on my <a href="https://lmoscheni.github.io/" target="blank">site!</a>
 <!--
 **lmoscheni/lmoscheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
