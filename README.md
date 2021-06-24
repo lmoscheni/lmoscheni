@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmoscheni&layout=compact&hide=python&theme=dracula)](https://github.com/lmoscheni/github-readme-stats)
 
-### 🧐 You cand find me on my <a href="https://lmoscheni.github.io/" target="blank">site!</a>
+### 🧐 You cand find me on my <a href="https://lmoscheni.me" target="blank">site!</a>
 <!--
 **lmoscheni/lmoscheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
