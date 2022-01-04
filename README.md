@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmoscheni&layout=compact&hide=python&theme=gotham)](https://github.com/lmoscheni/github-readme-stats)
 
-### 🧐 You cand find me on my <a href="https://lmoscheni.me" target="blank">site!</a>
+### 🧐 You can find me on my <a href="https://lmoscheni.me" target="blank">site!</a>
