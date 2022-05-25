@@ -1,6 +1,6 @@
 # Hi there, I'm Leandro! 👋
 
-I’m currently working at [Despegar](https://www.despegar.com) as a full stack engineer.
+I’m currently working at [d·local](https://dlocal.com/) as a frontend engineer.
  
 ### I work with this techs:
 #### Frontend
