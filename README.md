@@ -1,6 +1,6 @@
 # Hi there, I'm Leandro! 👋
 
-I’m a Softeare Engineer at [d·local](https://dlocal.com/).
+I’m a Software Engineer at [d·local](https://dlocal.com/).
  
 ## I work with this techs:
 
